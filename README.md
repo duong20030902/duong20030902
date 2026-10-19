@@ -1,7 +1,5 @@
 # Hi there, I'm Tung Duong 👋
 
-[GitHub Profile](https://github.com/duong20030902)
-
 I'm a **Backend Developer** focused on building reliable systems for financial and enterprise applications. I work mainly with **Java Spring Boot** and **C#/.NET**, developing REST APIs, integrating transaction workflows, and working with **Oracle PL/SQL**, PostgreSQL, and Redis. I also have hands-on experience with deployment, troubleshooting, and supporting systems in production.
 
 ### 🌱 Technologies & Tools
